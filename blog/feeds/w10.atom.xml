@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T15:21:13+08:00</updated><entry><title>協同產品W6-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T16:00:00+08:00</published><updated>2024-06-20T15:21:13+08:00</updated><author><name>40923124</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T16:18:49+08:00</updated><entry><title>協同產品W6-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T16:00:00+08:00</published><updated>2024-06-20T16:18:49+08:00</updated><author><name>40923124</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -19,4 +19,7 @@
 &lt;p&gt;論文四：Design and Implementation a Ball Balancing System for Control Theory Course&lt;/p&gt;
 &lt;p&gt;該專案的主要目的是開發一個球平衡系統來保持球平衡在光束上使用微控制器和相關控制演算法來調整光束角度具有即時感官回饋。在此過程中，三製作原型並相互比較，特別是在合理性和成本方面。整個系統可輕鬆設計，整合一台伺服馬達、一距離感測器、一塊微控制器板和一個機械平台。此系統可用於本科生學習和理解比例積分微分的基礎知識（PID）控制。&lt;/p&gt;
 &lt;p&gt;論文五：Ball on the plate balancing control system&lt;/p&gt;
-&lt;p&gt;平衡問題是從教育到交通等許多領域的應用中持續研究的挑戰。二自由度球平衡實驗室試驗台是了解控制系統的重要設備。本文將重點放在平衡板上球的機械設計和控制演算法。該設備配備了用於採集球位置數據的電阻式觸控螢幕、用於平台傾角反饋數據的帶有位置感測器的步進電機以及用於保持球位置的帶有PID控制器的基於AVR微控制器的二迴路從屬控制系統。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;平衡問題是從教育到交通等許多領域的應用中持續研究的挑戰。二自由度球平衡實驗室試驗台是了解控制系統的重要設備。本文將重點放在平衡板上球的機械設計和控制演算法。該設備配備了用於採集球位置數據的電阻式觸控螢幕、用於平台傾角反饋數據的帶有位置感測器的步進電機以及用於保持球位置的帶有PID控制器的基於AVR微控制器的二迴路從屬控制系統。&lt;/p&gt;
+&lt;p&gt;論文六：2D Ball Balancer Control using QUARC&lt;/p&gt;
+&lt;p&gt;2D 球平衡器實驗的目的是將球穩定到平衡板上的所需位置。使用比例積分微分 (PID) 系列，控制系統被設計為滿足一組規格。
+探索了設定點權重和積分器抗飽和等控制技術。 ‧使用設備模型模擬球和梁控制，並確保滿足規格且沒有任何執行器飽和。 ‧在Quanser 2DBB 設備上實現控制器並評估其性能。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry></feed>
