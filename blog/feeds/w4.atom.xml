@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T14:29:59+08:00</updated><entry><title>協同產品W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-06-20T14:29:59+08:00</updated><author><name>40923124</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T15:21:01+08:00</updated><entry><title>協同產品W4-W5</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-06-20T15:21:01+08:00</updated><author><name>40923124</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程&lt;/p&gt;
 
 
-&lt;h1&gt;內容管理系統&lt;/h1&gt;
-&lt;p&gt;使用者可以自行利用 [cmsimde_site] 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry></feed>
+&lt;h1&gt;分組任務&lt;/h1&gt;
+&lt;p&gt;將以發布的教學影片填上字幕，再將字幕整理出逐字稿，在影片下方說明該影片的教學重點&lt;/p&gt;
+&lt;h1&gt;介紹Github 倉儲的維護方式&lt;/h1&gt;
+&lt;p&gt;(一)：Replit
+Replit 目前所提供的免費帳號, 雖然沒有太多的運算資源, 但並沒有使用時間的限制, 因此若能利用 python3 main.py 執行動態網站, 而且利用 python3 main2.py 執行靜態網站, 只要區分開動態網站與靜態網站的使用, 就可以順利在 Replit 上維護個人與分組的網站內容.&lt;/p&gt;
+&lt;p&gt;(二)：Codespaces
+位於 https://github.com/codespaces, 是 Github 帳號下個倉儲的延伸功能, 每一個免費 Github 帳號每個月有 120 core-hours 的使用限制, 每一個免費 codespace 最小配置 2core, 可以提升至 4core.&lt;/p&gt;
+&lt;p&gt;(三)：Gitpod
+位於 https://gitpod.io, 是一套類似 Codespaces 的雲端 IDE 服務系統, 可以直接採 Github 帳號登入, 免費使用授權時間為每月 50 小時, 若採 Github 帳號登入, 則可以直接導入該帳號下的個人倉儲進行維護.&lt;/p&gt;
+&lt;p&gt;(四)：localhost
+localhost 採用的是 portable_2024 可攜程式系統, 啟動後, 可以用來執行個人與分組的倉儲維護, 只是若在 Windows 系統可以選擇較簡單的 token 綁定授權, 或者使用 Putty 設定的 SSH 使用授權, 唯一必須注意的是, Putty 所建立的 session 資料會直接登錄到操作系統的登錄檔案 (Registry), 使用者必須將此 session 以 .reg 的格式匯出, 存在隨身碟, 並在每次要使用此一授權時, 以滑鼠在實體檔案路徑下的 my_putty_session.reg (不能使用虛擬的檔案路徑, 例如: 不能點擊位於 Y: 目錄下的 .reg 登錄設定檔案)&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry></feed>
