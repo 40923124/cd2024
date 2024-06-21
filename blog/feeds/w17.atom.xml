@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w17</title><link href="./" rel="alternate"></link><link href="./feeds/w17.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T14:14:01+08:00</updated><entry><title>協同產品W17</title><link href="./2024-Spring-w17-blog-tutorial.html" rel="alternate"></link><published>2024-05-14T16:00:00+08:00</published><updated>2024-06-21T14:14:01+08:00</updated><author><name>40923124</name></author><id>tag:None,2024-05-14:./2024-Spring-w17-blog-tutorial.html</id><summary type="html">&lt;p&gt;W17 協同產品設計實習期末報告&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W17 協同產品設計實習期末報告&lt;/p&gt;
+
+
+&lt;h1&gt;W17項目一&lt;/h1&gt;
+&lt;p&gt;利用 NX 設計&lt;a href="https://drive.google.com/drive/u/2/folders/1Nd4p8pmSgkzoosHJNh54SSmRVhKz0riW"&gt;機器人零件&lt;/a&gt;與組立件
+零件一&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/J2fNnyi8Er0?si=hIkLx0TJ7HdzvyqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;零件二&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V-AlzWOBxxk?si=9QnVzbgDMozaVtcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;W17項目二&lt;/h1&gt;
+&lt;p&gt;用 NX Open 程式把項目一的&lt;a href="https://drive.google.com/drive/u/2/folders/1j6MnBOx7iIBPtrcqcO8iVzPalyBOv4A0"&gt;零組件組立&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OFIOvZauKrg?si=6C5fIPRcW95kevHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;W17項目三&lt;/h1&gt;
+&lt;p&gt;組立好的機器人模型先轉IGS檔，再開SW轉成STL檔，匯入到CoppeliaSim裡面做動(&lt;a href="https://drive.google.com/drive/u/2/folders/1gWAExnYJi-pVXwK_J2d4n9arofBlFFTA"&gt;檔案&lt;/a&gt;)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jdkg2fGp5EE?si=lW0XdMlSsExdyuQu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w17"></category><category term="網誌編寫"></category></entry></feed>

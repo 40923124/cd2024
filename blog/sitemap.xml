@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-21T14:06:51-00:00</lastmod>
+<lastmod>2024-06-21T14:33:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-21T14:06:51-00:00</lastmod>
+<lastmod>2024-06-21T14:33:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-21T14:06:51-00:00</lastmod>
+<lastmod>2024-06-21T14:33:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-21T14:06:51-00:00</lastmod>
+<lastmod>2024-06-21T14:33:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,15 +39,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./2024-Spring-w17-blog-tutorial.html</loc>
+<lastmod>2024-06-21T14:14:01+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w12-blog-tutorial.html</loc>
+<lastmod>2024-06-21T14:14:01+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w11-blog-tutorial.html</loc>
+<lastmod>2024-06-21T14:14:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w10-blog-tutorial.html</loc>
+<lastmod>2024-06-21T14:14:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./2024-Spring-w4-blog-tutorial.html</loc>
-<lastmod>2024-06-21T10:34:10+08:00</lastmod>
+<lastmod>2024-06-21T14:33:35+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2024-Spring-w3-blog-tutorial.html</loc>
-<lastmod>2024-06-21T10:20:03+08:00</lastmod>
+<lastmod>2024-06-21T14:31:36+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -74,6 +102,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w10.html</loc>
+<lastmod>2024-06-21T14:14:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w11.html</loc>
+<lastmod>2024-06-21T14:14:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w12.html</loc>
+<lastmod>2024-06-21T14:14:01+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w17.html</loc>
+<lastmod>2024-06-21T14:14:01+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/w2.html</loc>
 <lastmod>2024-06-20T15:20:50+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -82,28 +138,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/w3.html</loc>
-<lastmod>2024-06-21T10:20:03+08:06</lastmod>
+<lastmod>2024-06-21T14:31:36+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w4.html</loc>
-<lastmod>2024-06-21T10:34:10+08:06</lastmod>
+<lastmod>2024-06-21T14:33:35+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-06-21T10:34:10+08:06</lastmod>
+<lastmod>2024-06-21T14:33:35+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40923124.html</loc>
-<lastmod>2024-06-21T10:34:10+08:06</lastmod>
+<lastmod>2024-06-21T14:33:35+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
