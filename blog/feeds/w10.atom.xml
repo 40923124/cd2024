@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T07:01:46+08:00</updated><entry><title>協同產品W6-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T16:00:00+08:00</published><updated>2024-06-21T07:01:46+08:00</updated><author><name>40923124</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T10:02:42+08:00</updated><entry><title>協同產品W6-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T16:00:00+08:00</published><updated>2024-06-21T10:02:42+08:00</updated><author><name>40923124</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;W10 實習的任務一:&lt;/h1&gt;
-&lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
-&lt;p&gt;將倉儲加入至自己的github後，利用github帳號登入到&lt;a href="https://replit.com/"&gt;replit&lt;/a&gt;，將倉儲導入到&lt;a href="https://replit.com/"&gt;replit&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;已知: &lt;a href="https://mde.tw/cd2024/content/Brython.html?src=https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/27ae4eb5669e4495b3e3a164d404628913a011ed/2b_w10_step1.py"&gt;2b 初步資料放入數列&lt;/a&gt; 可以將 &lt;a href="https://mdecd2024.github.io/2bstud-2bsite/downloads/2b.txt"&gt;2b.txt&lt;/a&gt; 即時資料取出, 並且將每一行隔開後, 逐一放入數列.&lt;/p&gt;
+&lt;p&gt;後續處理: 只要透過 for 重複迴圈, 就可以從上列資料中每位學員的基本資料 (學號、Github 帳號與組別) 中直接在網頁建立所需的 html.&lt;/p&gt;
+&lt;p&gt;學員倉儲連結 template: https://github.com/學員帳號/cd2024&lt;/p&gt;
+&lt;p&gt;學員網站連結 template: https://學員帳號.github.io/cd2024&lt;/p&gt;
+&lt;p&gt;2b 分組倉儲連結 template: https://github.com/mdecd2024/2b-midbg組別&lt;/p&gt;
+&lt;p&gt;2a 分組倉儲連結 template: https://github.com/mdecd2024/2a-midag組別&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mde.tw/cd2024/content/Brython.html?src=https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/9e0540c36b0c6d74065ddc23ed3f365e1ba14c53/2b_w10_step2.py"&gt;列出 2b 各學員評分相關網站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mde.tw/cd2024/content/Brython.html?src=https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/a035644a54de63d3b920211e78e7532837bda516/2a_w10_step2.py"&gt;列出 2a 各學員評分相關網站&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;W10 實習的任務二:&lt;/h1&gt;
 &lt;p&gt;閱讀結果：&lt;/p&gt;
 &lt;p&gt;各篇論文要點摘要：&lt;/p&gt;
