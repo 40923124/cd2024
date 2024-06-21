@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T16:42:31+08:00</updated><entry><title>協同產品W4-W5</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-06-20T16:42:31+08:00</updated><author><name>40923124</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T10:34:10+08:00</updated><entry><title>協同產品W4-W5</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-06-21T10:34:10+08:00</updated><author><name>40923124</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程&lt;/p&gt;
 
 
@@ -10,7 +10,7 @@
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1Q_tEaQHBHHXwKkpdgA_jqulbXNW6kJfB/view?usp=sharing"&gt;逐字稿&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;摘要：&lt;/p&gt;
 &lt;p&gt;1.如何建立組別倉儲並加入
-2.耴和Codespaces 維護分組倉儲&lt;/p&gt;
+2.如何使用Codespaces 維護分組倉儲&lt;/p&gt;
 &lt;h1&gt;介紹Github 倉儲的維護方式&lt;/h1&gt;
 &lt;p&gt;(一)：Replit
 Replit 目前所提供的免費帳號, 雖然沒有太多的運算資源, 但並沒有使用時間的限制, 因此若能利用 python3 main.py 執行動態網站, 而且利用 python3 main2.py 執行靜態網站, 只要區分開動態網站與靜態網站的使用, 就可以順利在 Replit 上維護個人與分組的網站內容.&lt;/p&gt;
